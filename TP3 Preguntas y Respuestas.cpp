@@ -53,7 +53,9 @@ cout<<"\t| 3 preguntas por tematica generadas,                              |\n"
 cout<<"\t| Escriba la letra correspondiente a la tematica deseada           |\n";
 cout<<"\t| Ingrese la respuesta solo con su primera letra en mayuscula      |\n";
 cout<<"\t| Para salir escriba Regresar al pasado Ahora                      |\n";
-cout<<"\t| Una cosa mas, tiene 5 vidas. Por cada error perdera una vida.    |\n";
+cout<<"\t| Una cosa mas, comienza 5 vidas. Por cada error perdera una vida  |\n";
+cout<<"\t| La cantidad de vidas que posee esta simbolizado con la cant de   |\n";
+cout<<"\t| Corazones que puede observar por encima de este cuadro           |\n";
 cout<<"\t--------------------------------------------------------------------\n";
 getline (cin, tematica);
 
