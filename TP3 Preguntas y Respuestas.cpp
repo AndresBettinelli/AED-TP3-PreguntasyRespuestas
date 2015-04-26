@@ -140,7 +140,7 @@ if ((tematica == "b") || (tematica == "B")){
 	cout<<"\t#  Primera Pregunta  #"<<endl;
 	cout<<"\t######################"<<endl;
 	do{
-	cout<<"\tQuién sabia que no sabia nada? "<<endl;
+	cout<<"\tQuien sabia que no sabia nada? "<<endl;
 	cin>>RB1;
 	if(RB1 != "Socrates"){
 		i--;
